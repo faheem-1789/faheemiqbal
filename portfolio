@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Faheem Iqbal – Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background-color: #007bff;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #007bff;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .contact a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #e9ecef;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Faheem Iqbal</h1>
+    <p>Customer Experience & Operations Leader</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>With 4+ years of experience leading global support teams, improving CSAT by 20%, and optimizing CRM operations, I’m passionate about delivering seamless customer journeys that drive measurable business impact.</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <h3>Snoonu – Customer Support Team Lead (2021–Present)</h3>
+    <ul>
+      <li>Led a team of 150+ agents across shifts.</li>
+      <li>Improved CSAT by 20% and SLA to 96%.</li>
+      <li>Built internal knowledge base and QA systems.</li>
+    </ul>
+    <h3>Orian Stars – Customer Support Representative (2019–2021)</h3>
+    <ul>
+      <li>Handled 100+ queries daily across chat, email, and phone.</li>
+      <li>Top QA performer and supported team onboarding.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills & Tools</h2>
+    <p>Zendesk, Salesforce, Power BI, QA Scorecards, Knowledge Base Systems, MS Excel, Customer Journey Mapping</p>
+  </section>
+
+  <section>
+    <h2>Certifications</h2>
+    <ul>
+      <li>Power BI for Data Analysts – Microsoft</li>
+      <li>Communicating with Emotional Intelligence – LinkedIn Learning</li>
+      <li>Time Management – LinkedIn Learning</li>
+      <li>Building Trust – LinkedIn Learning</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:faheemiqbal993@gmail.com">faheemiqbal993@gmail.com</a></p>
+    <p>Phone: +92 309 2012336</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/faheem-iqbal-a637b7162" target="_blank">linkedin.com/in/faheem-iqbal-a637b7162</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Faheem Iqbal</p>
+  </footer>
+</body>
+</html>
